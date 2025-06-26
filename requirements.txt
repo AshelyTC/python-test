@@ -21,3 +21,4 @@ sympy>=1.13.3
 types-dataclasses
 typing-extensions>=4.10.0
 langchain-community==0.0.27
+rfc3161-client==1.0.2
